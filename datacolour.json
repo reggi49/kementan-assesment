@@ -1,0 +1,68 @@
+[
+  { 
+    "cblack" : [
+    {
+      "name": "FOSSIL",
+      "hex": "#70706c",
+      "kode": "MB 6004"
+    },
+    {
+      "name": "NATURAL",
+      "hex": "#a38869",
+      "kode": "MB 6008"
+    },
+    {
+      "name": "JADE",
+      "hex": "#6d735e",
+      "kode": "MB 6035"
+    },
+    {
+      "name": "GINGER",
+      "hex": "#683a1f",
+      "kode": "MB 6020"
+    },
+    {
+      "name": "SCARLET",
+      "hex": "#832327",
+      "kode": "MB 6027"
+    },
+    {
+      "name": "TOSCA",
+      "hex": "#396356",
+      "kode": "MB 6040"
+    }
+    ],
+    "cgraphite": [
+      {
+        "name": "NEVADA",
+        "hex": "#6a6260",
+        "kode": "MB 6014"
+      },
+      {
+        "name": "SAHARA",
+        "hex": "#a27e5a",
+        "kode": "MB 6023"
+      },
+      {
+        "name": "BURGUNDY",
+        "hex": "#4a0b1e",
+        "kode": "MB 6028"
+      },
+      {
+        "name": "PUMPKIN",
+        "hex": "#b0431a",
+        "kode": "MB 6026"
+      },
+      {
+        "name": "CANARY",
+        "hex": "#fcd965",
+        "kode": "MB 6025"
+      },
+      {
+        "name": "SAPPHIRE",
+        "hex": "#003470",
+        "kode": "MB 6033"
+      }
+    ]
+  }
+]
